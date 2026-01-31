@@ -1,15 +1,17 @@
 # Site-wide settings
 # ------------------
 #
-title: Your awesome title
+title: Paul's Blog
 #
-# author:
-#   name: GitHub User
-#   email: your-email@domain.com
+author:
+  name: Paul Beggs
+  email: beggspa@hendrix.edu
 #
 # The `>` after `description:` means to ignore line-breaks until next key. If
 #   you wish to omit the line-break after the end of text, use `>-` instead.
-# description: >
+description: >
+    This is my new blog that was made with Jekyll. There's not much here, but
+    I'm sure there is more to come. Thanks for stopping by!
 #   Write an awesome description for your new site here. You can edit this line
 #   in _config.yml. It will appear in your document head meta (for Google search
 #   results) and in your feed.xml site description.

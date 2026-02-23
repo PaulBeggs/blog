@@ -39,7 +39,17 @@ Breaking down that description, we get the following:
 Our users include the owner and their customers
 
 1. As an owner, I want to list items with name, price, description, quantity available, and manufacturer so that customers can browse and order them.
+    - Time to complete: 8 weeks (whole project length)
+    - Connections: Customer ordering, login, and finalizing orders
 2. As a customer, I want to create an account by entering my name, address, and phone number so that I can place online orders for pickup or delivery.
+    - Time to complete: 2 weeks
+    - Connections: Owner's webpage and customer functionality (e.g., ordering, finalizing, setting date and time)
 3. As a customer, I want to add items to my order with quantity, special instructions, and substitution preferences so that I receive the items I need even if something is out of stock.
+    - Time to complete: 6 weeks
+    - Connections: Owner's webpage and customer functionality
 4. As a customer, I want to choose a date and time when finalizing my order so that it is fulfilled when I need it.
+    - Time to complete: 2 weeks
+    - Connections: Owner's webpage and customer functionality
 5. As a customer, I want finalized orders to be locked so that I know my order details cannot accidentally change.
+    - Time to complete: 1 week
+    - Connections: Owner's webpage and customer functionality

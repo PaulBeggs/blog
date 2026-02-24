@@ -53,3 +53,15 @@ Our users include the owner and their customers
 5. As a customer, I want finalized orders to be locked so that I know my order details cannot accidentally change.
     - Time to complete: 1 week
     - Connections: Owner's webpage and customer functionality
+
+### Assumptions
+
+I am assuming that the customer will be able to type unformatted strings in for their special instructions, and that they can only interact with the product through the `Contains` table. This table combines the customer's order and the product's functionality into one place. I'm also assuming that the owner can input values for the product through the webpage. Speaking of the webpage, I'm envisioning the interface like this: The customer enters the webpage, where they must sign in with their name, address, and phone number. After which, they can order products, and enter the relevant information for each product like quantity, special instructions, etc. Then, once they are finished, they can finalize the order into a 'pending' or 'locked' status. For the owner, they can view the webpage as an admin, which allows them to see all of the customer data (including orders and name).  
+
+## Entity-Relationship Diagrams
+
+![image](../../../../images/Grocery_website_entity_relationship.png)
+
+## Schema
+
+![image](../../../../images/Grocery_Website_db_transparent-2026-02-23_17-18.png)
